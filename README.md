@@ -5,9 +5,10 @@ This website will help to track the expenses of a collage student easily.
 
 ## Technologies Used
 
-![HTML5](https://cdn.worldvectorlogo.com/logos/html5.svg)
-![CSS3](https://cdn.worldvectorlogo.com/logos/css3.svg)
-![JavaScript](https://cdn.worldvectorlogo.com/logos/javascript.svg)
+<center><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=black"></a></center>
+
 
 
 # How to use? / Instructions :
