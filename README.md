@@ -1,7 +1,8 @@
 # Roommate-Expense-Tracker
 This website will help to track the expenses of a collage student easily.
 
-# My Project
+# Deploy link:
+https://sagarrathore1.github.io/Roommate-Expense-Tracker/
 
 ## Technologies Used
 
